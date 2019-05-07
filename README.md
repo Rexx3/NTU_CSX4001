@@ -1,7 +1,6 @@
 # Week 1-7
 \
 資料視覺化、EDA
-\
 # Week 8-11
 \
 week 8: 學習EDA
